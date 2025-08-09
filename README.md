@@ -34,6 +34,6 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,java,c++" /><br>
 </div>
 <br/>
-<p align="center"><b>My Contribution Graph</b> 🐍</p>
+<p align="center"><strong>My Contribution Graph</strong> 🐍</p>
 
 ![snake gif](https://github.com/M0hammedMahm0ud/M0hammedMahm0ud/blob/output/github-snake-dark.svg)
