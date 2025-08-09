@@ -34,3 +34,4 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,java,c++" /><br>
 </div>
 <br/>
+![snake gif](https://github.com/M0hammedMahm0ud/M0hammedMahm0ud/blob/output/github-snake-dark.svg)
