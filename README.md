@@ -33,6 +33,6 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,java,c++" /><br>
 </div>
-<h3>My Contribution Graph 🐍</h3>
+<p>My Contribution Graph 🐍</p>
 
 ![snake gif](https://github.com/M0hammedMahm0ud/M0hammedMahm0ud/blob/output/github-snake-dark.svg)
