@@ -10,7 +10,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Docker, React.js**
+ 🌱 I’m currently learning **React.js**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
