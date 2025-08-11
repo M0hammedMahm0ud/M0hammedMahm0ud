@@ -20,7 +20,7 @@
   <a href="mailto:moseleeeem12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BQHN9TAuAR%2Fy9ugDd3dhv6g%3D%3D](https://www.linkedin.com/in/mohmed-mahmoud-85419925a/?trk=public-profile-join-page)" target="_blank">
+  <a href="[https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BQHN9TAuAR%2Fy9ugDd3dhv6g%3D%3D](https://www.linkedin.com/in/mohmed-mahmoud-85419925a)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
