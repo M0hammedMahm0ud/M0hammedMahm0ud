@@ -9,7 +9,6 @@
 
 <div align="center">
  
- 
  🌱 I’m currently learning **React.js**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
@@ -34,6 +33,7 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,java,c++" /><br>
 </div>
 <br/>
+
 <p align="center">🐍</p>
 
 ![snake gif](https://github.com/M0hammedMahm0ud/M0hammedMahm0ud/blob/output/github-snake-dark.svg)
