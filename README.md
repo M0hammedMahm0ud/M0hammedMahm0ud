@@ -4,9 +4,11 @@
 </h1>
 
 <h3 align="center">A Passionate FrontEnd developer from El-fayoum, Egypt</h3>
-<br/>
+
 <div align="center">
+    
  🌱 I’m currently learning **React.js**
+    
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  </div>
  
