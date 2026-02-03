@@ -8,9 +8,7 @@
 <div align="center">
     
  🌱 I’m currently learning **React.js**
-    
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- </div>
+     </div>
  
 <div align="center"> 
   <a href="mailto:moseleeeem12@gmail.com">
