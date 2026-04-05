@@ -14,7 +14,6 @@
 
 * 🌱 Currently learning **React.js**
 * 💡 Interested in building modern UI/UX
-* 🎯 Goal: Become a professional Frontend Engineer
 ---
 
 ### 🌐 Connect with me
@@ -41,7 +40,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M0hammedMahm0ud&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M0hammedMahm0ud&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
