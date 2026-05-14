@@ -12,7 +12,7 @@
 
 ###  About Me
 
-*  Currently learning **React.js**
+*  Currently writing js, Learning **React.js and TS**
 *  Interested in building modern UI/UX
 ---
 
