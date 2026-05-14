@@ -32,7 +32,7 @@
 ###  Languages - Frameworks - Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,js,ts,python,java,c,cpp,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,js,ts,python,java,c,cpp,git,github,vscode,figma,docker,react,vite,babel" />
 </p>
 
 ---
